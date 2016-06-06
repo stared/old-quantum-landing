@@ -1,0 +1,10 @@
+---
+layout: default
+img: FNPlogoKOLORpl.png
+category: Services
+title: Support
+description: |
+---
+
+This project is supported by [eNgage – III/2014 grant](http://www.fnp.org.pl/laureaci-engage-iii-edycja/) by the [Foundation for Polish Science](http://www.fnp.org.pl/en/).
+

@@ -12,8 +12,4 @@ This game is being developed by:
 * Patryk Hes
 * dr inż. Michał Krupiński
 
-We thanks all other contributors for inspiration, ideas and feedback!
-
-This project is supported by:
-
-* [eNgage – III/2014 grant](http://www.fnp.org.pl/laureaci-engage-iii-edycja/) by the [Foundation for Polish Science](http://www.fnp.org.pl/en/)
+We thanks all other contributors for inspiration, ideas and feedback! Speeking about that: tweet us [@QuantumGameIO](https://twitter.com/quantumgameio), comment at the [FB page](https://www.facebook.com/quantumgameio), raise an issue on [GitHub repository](https://github.com/stared/quantum-game) or simply write an email to [Piotr](mailto:pmigdal+qg@gmail.com).
