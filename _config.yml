@@ -1,0 +1,38 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://quantumgame.io
+title: Quantum Game with Photons
+email: pmigdal@gmail.com
+author: Piotr Migdał
+description: > # "Write an awesome description for your new site here. 
+  You can edit this line in _config.yml. It will appear in your document 
+  head meta (for Google search results) and in your feed.xml site 
+  description.
+copyright: 'Copyright &copy; 2016 Piotr Migdał. All Rights Reserved.'
+credits: 'Style based on a open Jekyll theme <a href="http://startbootstrap.com/">Start Bootstrap: Landing Page</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: Play! (beta)
+    url: http://play.quantumgame.io
+  - title: github
+    url: https://github.com/stared/quantum-game
+  - title: facebook
+    url: https://www.facebook.com/quantumgameio
+  - title: twitter
+    url: https://twitter.com/quantumgameio
+  - title: mailchimp
+    url: http://quantumgame.us9.list-manage.com/subscribe?u=5e3bdb13b61924c4b0ec92fba&id=e1c573b8d3

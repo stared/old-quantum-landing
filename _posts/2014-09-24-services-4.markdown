@@ -1,0 +1,19 @@
+---
+layout: default
+img: authors.jpg
+category: Services
+title: Authors
+description: |
+---
+
+This game is being developed by:
+
+* dr [Piotr Migdał](http://p.migdal.pl)
+* Patryk Hes
+* dr inż. Michał Krupiński
+
+We thanks all other contributors for inspiration, ideas and feedback!
+
+This project is supported by:
+
+* [eNgage – III/2014 grant](http://www.fnp.org.pl/laureaci-engage-iii-edycja/) by the [Foundation for Polish Science](http://www.fnp.org.pl/en/)

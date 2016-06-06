@@ -1,0 +1,20 @@
+---
+layout: default
+img: mach_zehnder.png
+category: Services
+title: Real physics
+description: |
+---
+
+Underneath there is s real simulator of quantum mechanics - a discrete variant describing polarization and discrete position. S
+
+Sandbox mode allows experimenting with physics, creating new levels and having fun. It's why we called it *adventures of a curious character*. :)
+
+Replicate famous (real and gedanken) experiments like:
+
+* [Michelson interferometer](https://en.wikipedia.org/wiki/Michelson_interferometer)
+* [Mach–Zehnder interferometer](https://en.wikipedia.org/wiki/Mach%E2%80%93Zehnder_interferometer)
+* [Sagnac interferometer](https://en.wikipedia.org/wiki/Common-path_interferometer)
+* [Elitzur–Vaidman bomb tester](https://en.wikipedia.org/wiki/Elitzur%E2%80%93Vaidman_bomb_tester)
+
+Underneath there is s real simulator of quantum mechanics - a discrete variant describing polarization and discrete position. You may be not aware of unitary and projective operators, tensor products or complex number - but JavaScript is doing all the dark magic for you!

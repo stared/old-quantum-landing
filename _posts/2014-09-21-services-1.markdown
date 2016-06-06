@@ -1,0 +1,13 @@
+---
+layout: default
+img: gameplay.png 
+category: Services
+title: Wave optics and quantum mechanics as a game
+description: |
+---
+
+Play for fun! Learn quantum mechanics as a side effect.
+
+It's a puzzle game, heavily inspired by The Incredible Machine and Chromatron.
+
+All you need is a browser (we recommend recent version of Firefox or Chrome), you don't need to install anything.

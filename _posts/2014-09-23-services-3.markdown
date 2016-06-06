@@ -1,0 +1,14 @@
+---
+layout: default
+img: poll.png
+category: Services
+title: News
+description: |
+---
+
+* (3 Jun 2016) - initial public beta
+
+* To do
+	* More levels!
+	* A lot of fixes and tweaks
+	* More particles (and entanglement)
