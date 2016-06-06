@@ -5,11 +5,9 @@
 url: http://quantumgame.io
 title: Quantum Game with Photons
 email: pmigdal@gmail.com
+thumbnail: /img/services/gameplay.png
 author: Piotr Migdał
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
+description: A puzzle game with photons, superposition and quantum measurement, right in your browser. With true quantum mechanics underneath!
 copyright: 'Copyright &copy; 2016 Piotr Migdał. All Rights Reserved.'
 credits: 'Style based on a open Jekyll theme <a href="http://startbootstrap.com/">Start Bootstrap: Landing Page</a>.'
 
