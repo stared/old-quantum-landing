@@ -6,8 +6,6 @@ title: Real physics
 description: |
 ---
 
-Underneath there is s real simulator of quantum mechanics - a discrete variant describing polarization and discrete position. S
-
 Sandbox mode allows experimenting with physics, creating new levels and having fun. It's why we called it *adventures of a curious character*. :)
 
 Replicate famous (real and gedanken) experiments like:
