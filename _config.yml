@@ -24,8 +24,6 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: Play! (beta)
-    url: http://play.quantumgame.io
   - title: github
     url: https://github.com/stared/quantum-game
   - title: facebook
