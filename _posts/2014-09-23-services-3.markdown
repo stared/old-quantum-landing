@@ -11,7 +11,7 @@ anchor_name: News
 * (12 Jul 2016) more levels (34 total)
 * (3 Jun 2016) initial public beta
 
-* To do
+* TO DO
 	* More levels!
 	* A lot of fixes and tweaks
 	* More particles (and entanglement)
