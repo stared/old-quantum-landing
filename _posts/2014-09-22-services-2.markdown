@@ -4,6 +4,7 @@ img: mach_zehnder.png
 category: Services
 title: Real physics
 description: |
+anchor_name: Physics
 ---
 
 Sandbox mode allows experimenting with physics, creating new levels and having fun. It's why we called it *adventures of a curious character*. :)

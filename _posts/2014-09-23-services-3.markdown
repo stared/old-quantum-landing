@@ -4,6 +4,7 @@ img: poll.png
 category: Services
 title: News
 description: |
+anchor_name: News
 ---
 
 * (15 Aug 2016) [Quantum mechanics for high-school students](http://p.migdal.pl/2016/08/15/quantum-mechanics-for-high-school-students.html)

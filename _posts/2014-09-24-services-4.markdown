@@ -4,6 +4,7 @@ img: authors.jpg
 category: Services
 title: Authors
 description: |
+anchor_name: Authors
 ---
 
 This game is being developed by:

@@ -4,6 +4,7 @@ img: gameplay.png
 category: Services
 title: Wave optics and quantum mechanics as a game
 description: |
+anchor_name: Intro
 ---
 
 Play for fun! Learn quantum mechanics as a side effect.
