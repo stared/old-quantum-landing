@@ -6,7 +6,9 @@ title: News
 description: |
 ---
 
-* (3 Jun 2016) - initial public beta
+* (15 Aug 2016) [Quantum mechanics for high-school students](http://p.migdal.pl/2016/08/15/quantum-mechanics-for-high-school-students.html)
+* (12 Jul 2016) more levels (34 total)
+* (3 Jun 2016) initial public beta
 
 * To do
 	* More levels!

@@ -1,6 +1,6 @@
 ---
 layout: default
-img: gameplay.png 
+img: gameplay.png
 category: Services
 title: Wave optics and quantum mechanics as a game
 description: |
@@ -12,4 +12,4 @@ It's a puzzle game, heavily inspired by The Incredible Machine and Chromatron.
 
 All you need is a browser (we recommend recent version of Firefox or Chrome), you don't need to install anything.
 
-It's open source - so not only you can play it for free, but also lookup the code.
+It's open source - so not only you can play it for free, but also lookup the code. Motivation behind the game is in [Quantum mechanics for high-school students](http://p.migdal.pl/2016/08/15/quantum-mechanics-for-high-school-students.html) blog post.
