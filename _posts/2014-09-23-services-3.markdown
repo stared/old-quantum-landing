@@ -7,9 +7,12 @@ description: |
 anchor_name: News
 ---
 
+* (22 Feb 2017) [Talk @ Gamedev.js Warsaw #2](https://www.facebook.com/events/1807171672869620/)
 * (15 Aug 2016) [Quantum mechanics for high-school students](http://p.migdal.pl/2016/08/15/quantum-mechanics-for-high-school-students.html)
 * (12 Jul 2016) more levels (34 total)
+* (22 Jun 2016) seminar at IQIM, Caltech
 * (3 Jun 2016) initial public beta
+* (24 Oct 2014) first public demo at [Science Polish Perspectives](http://www.polishperspectives.org/spp-2014/), Oxford
 
 * TO DO
 	* More levels!
