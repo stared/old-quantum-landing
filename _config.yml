@@ -25,10 +25,14 @@ permalink: pretty
 
 social:
   - title: github
+    icon: github
     url: https://github.com/stared/quantum-game
   - title: facebook
+    icon: facebook
     url: https://www.facebook.com/quantumgameio
   - title: twitter
+    icon: twitter
     url: https://twitter.com/quantumgameio
-  - title: mailchimp
+  - title: subscribe
+    icon: envelope
     url: http://quantumgame.us9.list-manage.com/subscribe?u=5e3bdb13b61924c4b0ec92fba&id=e1c573b8d3
