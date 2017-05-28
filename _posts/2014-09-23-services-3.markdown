@@ -7,6 +7,7 @@ description: |
 anchor_name: News
 ---
 
+* (28 May 2017) Hacker News front page with [Show HN: Quantum Game with Photons](https://news.ycombinator.com/item?id=14432176)
 * (15 Mar 2017) talk: [A game needs to framework @ Indie Game Dev Mini-Talks](https://speakerdeck.com/pmigdal/a-game-needs-to-framework)
 * (22 Feb 2017) talk: [Gamedev.js Warsaw #2](https://www.facebook.com/events/1807171672869620/)
 * (15 Aug 2016) blog post: [Quantum mechanics for high-school students](http://p.migdal.pl/2016/08/15/quantum-mechanics-for-high-school-students.html)
