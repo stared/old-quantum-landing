@@ -15,4 +15,6 @@ All you need is a browser (we recommend recent version of Firefox or Chrome), yo
 
 It's open source - so not only you can play it for free, but also lookup the code. Motivation behind the game is in [Quantum mechanics for high-school students](http://p.migdal.pl/2016/08/15/quantum-mechanics-for-high-school-students.html) blog post.
 
-It was covered on [The Quantum Times](http://thequantumtimes.org/2017/03/gamifying-quantum-theory/) (top pick in **education** for gamifying quantum theory), [Hacker News](https://news.ycombinator.com/item?id=14432176) and is on the [Science-based games collaborative list](https://github.com/stared/science-based-games-list).
+It was covered on [The Quantum Times](http://thequantumtimes.org/2017/03/gamifying-quantum-theory/) (top pick in **education** for gamifying quantum theory), [Motherboard](https://motherboard.vice.com/en_us/article/a3jkya/quantum-game-physics-computer-puzzle), [Hacker News](https://news.ycombinator.com/item?id=14432176) (actually, [twice](https://news.ycombinator.com/item?id=15905924)).
+
+For more games like this one, see: [Science-based games collaborative list](https://github.com/stared/science-based-games-list).
