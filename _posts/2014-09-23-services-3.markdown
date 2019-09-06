@@ -7,6 +7,7 @@ description: |
 anchor_name: News
 ---
 
+* (26 Aug 2019) [We are developing QG 2.0 at the Centre for Quantum Technologies, Singapore](https://medium.com/quantum-photons).
 * (28 May 2017) Hacker News front page with [Show HN: Quantum Game with Photons](https://news.ycombinator.com/item?id=14432176)
 * (15 Mar 2017) top pick for Education in [Gamifying Quantum Theory](http://thequantumtimes.org/2017/03/gamifying-quantum-theory/)
 * (15 Mar 2017) talk: [A game needs to framework @ Indie Game Dev Mini-Talks](https://speakerdeck.com/pmigdal/a-game-needs-to-framework)
