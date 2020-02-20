@@ -7,7 +7,7 @@ description: |
 anchor_name: Intro
 ---
 
-**NEWS: We develop Quantum Game v 2.0 at CQT, Singapore. See updates at [Medium](https://medium.com/quantum-photons) or [Twitter](https://twitter.com/QuantumGameIO). We will release it late 2019.**
+**NEWS: We develop [Quantum Game 2](https://github.com/Quantum-Game/) at CQT, Singapore.**
 
 Play for fun! Learn quantum mechanics as a side effect.
 
