@@ -8,7 +8,7 @@ email: pmigdal@gmail.com
 thumbnail: /img/services/gameplay.png
 author: Piotr Migdał
 description: A puzzle game with photons, superposition and quantum measurement, right in your browser. With true quantum mechanics underneath!
-copyright: 'Copyright &copy; 2016 Piotr Migdał. All Rights Reserved.'
+copyright: "Copyright &copy; 2016 Piotr Migdał. All Rights Reserved."
 credits: 'Style based on a open Jekyll theme <a href="http://startbootstrap.com/">Start Bootstrap: Landing Page</a>.'
 
 # ----------------------- #
@@ -32,7 +32,7 @@ social:
     url: https://www.facebook.com/quantumgameio
   - title: twitter
     icon: twitter
-    url: https://twitter.com/quantumgameio
+    url: https://twitter.com/QuantumFlytrap
   - title: subscribe
     icon: envelope
     url: http://quantumgame.us9.list-manage.com/subscribe?u=5e3bdb13b61924c4b0ec92fba&id=e1c573b8d3
